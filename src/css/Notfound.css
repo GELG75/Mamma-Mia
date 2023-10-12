@@ -1,0 +1,30 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.notFound {
+  color: #18a2b8;
+  justify-content: space-between;
+}
+
+.sad-pizza {
+  height: 350px;
+}
+
+a {
+  color: white;
+  font-size: 2rem;
+}
+
+a:hover {
+  color: rgb(62, 65, 139);
+}
+
+.active {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.btn-primary {
+  border-radius: .5rem;
+}

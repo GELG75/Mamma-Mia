@@ -1,0 +1,32 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+  background-color: #18a2b8;
+  justify-content: space-between;
+}
+
+a, a:visited {
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightgray;
+  text-decoration: none;
+}
+
+.active {
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+.btn-cart {
+  border-radius: .5rem;
+}
+.shoppingCart{
+  margin-right: 30px;
+}
